@@ -1,8 +1,8 @@
-import days.Day
-import days.DayOne
+import days.*
 
 val days = listOf<Day>(
-    DayOne
+    DayOne,
+    DayTwo
 )
 
 fun main(args: Array<String>) {
