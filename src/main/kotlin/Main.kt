@@ -1,8 +1,9 @@
 import days.*
 
-val days = listOf<Day>(
+val days = listOf(
     DayOne,
-    DayTwo
+    DayTwo,
+    DayThree
 )
 
 fun main(args: Array<String>) {
