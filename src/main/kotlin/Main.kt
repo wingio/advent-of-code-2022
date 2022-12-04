@@ -3,7 +3,8 @@ import days.*
 val days = listOf(
     DayOne,
     DayTwo,
-    DayThree
+    DayThree,
+    DayFour
 )
 
 fun main(args: Array<String>) {
