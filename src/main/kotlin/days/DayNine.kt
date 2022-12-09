@@ -30,6 +30,7 @@ object DayNine: Day {
 
         return uniquePoints.size
     }
+
     override fun solve() {
         println("Spaces tail has been (Part 1): ${followInstructions(2)}")
         println("Spaces tail has been (Part 2): ${followInstructions(10)}")
