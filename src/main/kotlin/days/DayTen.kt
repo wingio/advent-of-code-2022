@@ -9,6 +9,7 @@ object DayTen: Day {
     private val cycles = mutableListOf<Int>()
     private val display = ".".repeat(240).toMutableList()
     private var sprite = x-1..x+1
+
     override fun solve() {
         program.forEach {
             val command = it.split(" ")
