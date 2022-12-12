@@ -10,7 +10,8 @@ val days = listOf(
     DaySeven,
     DayEight,
     DayNine,
-    DayTen
+    DayTen,
+    DayEleven
 )
 
 fun main(args: Array<String>) {
